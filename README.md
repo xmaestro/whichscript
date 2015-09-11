@@ -9,4 +9,4 @@ Detect existing scripts on page like so
 ```javascript
 var scripts = whichscript.detect();
 ```
-`detect()` function returns an object with scrip names as keys and `true` or `false` as values. `true` is to say the script exists and `false` to say it does not. 
+`detect()` function returns an object with script names as keys and `true` or `false` as values. `true` is to say the script exists and `false` to say it does not. 
